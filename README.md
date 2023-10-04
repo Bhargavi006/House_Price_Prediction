@@ -1,4 +1,4 @@
-#House Price Prediction
+# HOUSE_PRICE_PREDICTION
 
 The HOUSE_PRICE_PREDICTION project aims to predict the housing price.It uses the Linear Regression Model to analyze various features of houses and learns patterns to estimate their prices accurately.
 
